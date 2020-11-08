@@ -1,0 +1,52 @@
+RegionID,SizeRank,RegionName,RegionType,StateName,30/09/2020
+9,0,California,State,CA,586659
+54,1,Texas,State,TX,223107
+43,2,New York,State,NY,346328
+14,3,Florida,State,FL,259642
+21,4,Illinois,State,IL,215891
+47,5,Pennsylvania,State,PA,208774
+44,6,Ohio,State,OH,161507
+30,7,Michigan,State,MI,184304
+16,8,Georgia,State,GA,213918
+36,9,North Carolina,State,NC,217575
+40,10,New Jersey,State,NJ,357546
+56,11,Virginia,State,VA,296604
+59,12,Washington,State,WA,442339
+26,13,Massachusetts,State,MA,457192
+22,14,Indiana,State,IN,166556
+8,15,Arizona,State,AZ,291168
+53,16,Tennessee,State,TN,200257
+32,17,Missouri,State,MO,171811
+27,18,Maryland,State,MD,326553
+60,19,Wisconsin,State,WI,200295
+31,20,Minnesota,State,MN,272175
+10,21,Colorado,State,CO,423364
+4,22,Alabama,State,AL,155782
+51,23,South Carolina,State,SC,203707
+25,24,Louisiana,State,LA,176987
+24,25,Kentucky,State,KY,153649
+46,26,Oregon,State,OR,379503
+45,27,Oklahoma,State,OK,139614
+11,28,Connecticut,State,CT,272404
+19,29,Iowa,State,IA,157584
+34,30,Mississippi,State,MS,131774
+6,31,Arkansas,State,AR,150910
+23,32,Kansas,State,KS,165364
+55,33,Utah,State,UT,377443
+42,34,Nevada,State,NV,316102
+41,35,New Mexico,State,NM,217355
+61,36,West Virginia,State,WV,108333
+38,37,Nebraska,State,NE,186579
+20,38,Idaho,State,ID,315911
+18,39,Hawaii,State,HI,649905
+28,40,Maine,State,ME,255736
+39,41,New Hampshire,State,NH,309709
+50,42,Rhode Island,State,RI,321513
+35,43,Montana,State,MT,311024
+13,44,Delaware,State,DE,271530
+52,45,South Dakota,State,SD,220326
+3,46,Alaska,State,AK,285487
+37,47,North Dakota,State,ND,237608
+58,48,Vermont,State,VT,262525
+12,49,District of Columbia,State,DC,641114
+62,50,Wyoming,State,WY,259371
